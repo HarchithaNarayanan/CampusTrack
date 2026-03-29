@@ -1,0 +1,9 @@
+hs_err_pid*.log
+.gemini/
+.metadata/
+node_modules/
+target/
+*.class
+.mvn/
+dist/
+build/
